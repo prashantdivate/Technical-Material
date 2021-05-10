@@ -1,17 +1,17 @@
 # Virtualization
 
-What is Virtualization ?
-Process of creating a virtual version of something, including virtual computer hardware platforms, storage devices and network resources.
+What is Virtualization ? <br />
+Process of creating a virtual version of something, including virtual computer hardware platforms, storage devices and network resources. <br />
 
-Why virtualization ?
- Cost reduction - as virtualization reduces need of physical machine
- Increased uptime – virtual servers helps with business continuity
- Easy backup – you can create backup of VM within minutes
- Testing environment – virtual servers offer programmers isolated, independent system in which they can test new applications or operating system.
- No need of manpower for manage hardware
+Why virtualization ? <br />
+ Cost reduction - as virtualization reduces need of physical machine <br />
+ Increased uptime – virtual servers helps with business continuity <br />
+ Easy backup – you can create backup of VM within minutes <br />
+ Testing environment – virtual servers offer programmers isolated, independent system in which they can test new applications or operating system. <br />
+ No need of manpower for manage hardware <br />
 
 
-What is hypervisor ?
+What is hypervisor ? <br />
 
 It is thin layer of software that runs your virtual machine
 
