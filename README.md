@@ -43,7 +43,9 @@ Some interesting facts !
   All VM setting
   
  VM files:
-[image](https://user-images.githubusercontent.com/29200717/117650767-be4bda00-b1ae-11eb-98dc-0b02695d851a.png)
+ 
+ 
+![image](https://user-images.githubusercontent.com/29200717/117650767-be4bda00-b1ae-11eb-98dc-0b02695d851a.png)
 
 
 
